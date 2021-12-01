@@ -6,6 +6,6 @@ display: inline-block; width:1000px; height:500px;}
 #menubar ul li {display: inline-block; padding:0px 15px;}
 #menubar ul li:hover {color: white; background-color: #12465F;}
 
-body{padding-top:30px; color:#FF6782;
+body{padding-top:5px; color:#FF6782;
  font-family:"Consolas";
   font-size:large;}
